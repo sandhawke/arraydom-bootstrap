@@ -1,5 +1,5 @@
 
-Generate (Boostrap)[http://getbootstrap.com/] documents out of
+Generate [Boostrap](http://getbootstrap.com/) documents out of
 configuration options, including arraydom fragments.
 
 ```javascript
