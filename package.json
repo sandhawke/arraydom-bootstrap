@@ -1,0 +1,18 @@
+{
+  "name": "arraydom-bootstrap",
+  "version": "0.0.1",
+  "description": "helps generate 'boostrap' pages, via arraydom",
+  "main": "index.js",
+  "scripts": {
+    "test": "faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandhawke/arraydom-bootstrap.git"
+  },
+  "author": "Sandro Hawke <sandro@hawke.org>",
+  "license": "MIT",
+  "dependencies": {
+    "arraydom": "0.0.3"
+  }
+}
